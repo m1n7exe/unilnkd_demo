@@ -5,7 +5,7 @@ export default function Navbar() {
         
         {/* Logo / Brand */}
         <a href="/" className="text-xl font-bold text-black">
-          UNILNK△
+          UNILNK△0
         </a>
 
         {/* Links */}
